@@ -1,0 +1,6 @@
+{
+  "name": "Uzhavan AI",
+  "description": "Tamil-first AI Smart Agriculture, Voice Helpline, Crop Doctor, Mandi Intelligence & Rural Marketplace Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
